@@ -1,0 +1,41 @@
+
+.text1, .text2 {
+    color: green;
+}
+
+#logo-img {
+    width: 100px;
+}
+
+footer {
+    background-color: green
+}
+
+.footer1, .footer2 {
+color: greenyellow;
+}
+ ul{
+
+    display: flex;
+ }
+
+ul{
+    gap: 25px;
+}
+
+header{
+
+    color: green;
+    margin: 5px;
+    margin-right: 5px;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+
+ 
+
+
+
+
+
